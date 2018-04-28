@@ -14,7 +14,16 @@ Questions
 ---------
 
 1. What's the main reason that people leave a career in testing, according to the article? (Bear in mind it was written in 2000!) **Answer:**
+
+** Testing has been seen as job which has nothing challenging which led people to move up and start other jobs like programmer or system analyst. 
+
 1. What are the stages in their proposed career path for testers? **Answer:**
+
+** The stages in the proposed career path are 
+->	Software tester
+->	Software test engineer
+->	After they become specialist, they can be lead software test specialist
+->	And in the end, enterprise software tester is also an option
 
 Prerequisites
 -------------
